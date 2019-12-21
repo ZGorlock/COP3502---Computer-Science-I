@@ -1,0 +1,31 @@
+%5d %3s %-13s %-16s %-13s %6.2f %8d \n
+
+** to edit values
+
+
+while fgets (dataline, length, filepointer) != NULL
+
+produce = trim(strtok(dataline, ","));
+type = trim(strtok(dataline, ","));
+soldBy = trim(strtok(dataline, ","));
+price = atof(trim(strtok(dataline, ",")));
+produce = atoi(trim(strtok(dataline, ",")));
+
+
+
+
+enqueue, dequeue, peek, isempty, isfull, clear
+
+
+
+
+prev = NULL
+current = head
+
+while current->next != NULL
+prev = current
+current = next
+current->next = prev
+
+
+

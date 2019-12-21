@@ -1,0 +1,4 @@
+﻿  BinarySearch.c
+c:\users\zgorlock\coding\c\visual studio workplace\cop3502c\examples\binarysearch.c(24): warning C4013: 'search' undefined; assuming extern returning int
+c:\users\zgorlock\coding\c\visual studio workplace\cop3502c\examples\binarysearch.c(28): warning C4013: 'binsearch' undefined; assuming extern returning int
+  Examples.vcxproj -> C:\Users\ZGorlock\Coding\C\Visual Studio Workplace\COP3502C\Debug\Examples.exe
